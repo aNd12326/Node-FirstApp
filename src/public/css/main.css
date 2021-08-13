@@ -1,0 +1,14 @@
+body{
+    background: #016bad; 
+}
+
+.navbar-brand{
+    font-size: 25px;
+    font-family: 'Spicy Rice', cursive;
+}
+
+.col-md-6 h2{
+    font-size: 35px;
+    font-family: 'Roboto', sans-serif;
+}
+
